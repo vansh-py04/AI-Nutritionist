@@ -5,7 +5,7 @@ Nutritionist AI is a cutting-edge mobile application that leverages the advanced
 ![image](https://github.com/user-attachments/assets/dbb440bd-da9c-4f6f-afce-6b4ac92c0f97)
 
 # Deployed Link
-http://192.168.1.7:8501/
+[http://192.168.1.7:8501/](https://ai-nutritionist-dkqa.onrender.com/)
 
 # Features
 AI-Powered Personalization: Utilizes Gemini Pro to analyze dietary preferences, health conditions, and fitness goals.
