@@ -1,6 +1,9 @@
 # 🍎 Nutritionist AI – Personalized Nutrition App Powered by Gemini Pro
 Nutritionist AI is a cutting-edge mobile application that leverages the advanced capabilities of Gemini Pro to deliver intelligent, personalized nutrition and wellness guidance. Whether you're looking to lose weight, manage a health condition, or build muscle, Nutritionist AI helps users achieve their health goals through data-driven meal plans and real-time feedback.
 
+# Architecture 
+![image](https://github.com/user-attachments/assets/dbb440bd-da9c-4f6f-afce-6b4ac92c0f97)
+
 # Deployed Link
 http://192.168.1.7:8501/
 
